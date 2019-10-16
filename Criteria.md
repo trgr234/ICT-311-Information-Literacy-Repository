@@ -4,7 +4,7 @@ When using these resources on Information Literacy, one should judge them based 
 
 * The information source defines or explains what information literacy is and how it can be understood (Levitov, 2004).
 
-* The information source explores one of the multi-faceted explanations for information literacy and understands that there is not one concrete definition to define the entire field of information literacy. 
+* The information source explores one of the multi-faceted explanations for information literacy and understands that there is not one concrete definition to define the entire field of information literacy (Mackey & Jacobson, 2011). 
 
 * The information source provides a logical understanding of information literacy and how it has changed and will continue to change with the advent of technology (Jacobson & O'Keeffe, 2014).
 
