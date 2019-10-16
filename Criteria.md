@@ -6,7 +6,7 @@ When using these resources on Information Literacy, one should judge them based 
 
 * The information source explores one of the multi-faceted explanations for information literacy and understands that there is not one concrete definition to define the entire field of information literacy. 
 
-* The information source provides a logical understanding of information literacy and how it is used in modern society and education (Khromov & Kameneva, 2014).
+* The information source provides a logical understanding of information literacy and how it has changed and will continue to change with the advent of technology (Jacobson & O'Keeffe, 2014).
 
 * Online sources contain information or links that may change as time passes. When researching via online sources, key elements to look for in a website that affect quality are source, qualifications and credentials, conflict of interest, currency, purpose, relevance, accuracy, context, scope and totality of topic, disclaimers, design, and links to other materials (Veronin, 2005, p. 211).
 
