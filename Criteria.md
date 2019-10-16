@@ -11,3 +11,5 @@ When using these resources on Information Literacy, one should judge them based 
 * The information source provides a logical understanding of information literacy and how it is used in modern society.
 
 * Online sources contain information or links that may change as time passes. When researching via online sources, key elements to look for in a website that affect quality are source, qualifications and credentials, conflict of interest, currency, purpose, relevance, accuracy, context, scope and totality of topic, disclaimers, design, and links to other materials (Veronin, 2005, p. 211).
+
+* In regards to academic journals, one can evaluate the quality of the research and whether the journal is high quality. Characteristics we can look for in high quality journals are peer review status, number of collective articles (articles with more than one author), number of subscribers to the journal, and whether the journal is on a recognized lists of publications i.e. Institute of Scientific Information Master Journal List (Clyde, 2004, p. 1120).
