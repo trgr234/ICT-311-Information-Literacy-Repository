@@ -6,3 +6,4 @@ Kovářová, P., & Zadražilová, I. (2013). The Influence of Technological Chan
 
 Owusu-Ansah, E. (2005). Debating definitions of information literacy: Enough is enough. *Library Review, 54*(6), 366-374. https://www-emerald-com.ezproxy.uky.edu/insight/content/doi/10.1108/00242530510605494/full/pdf?title=debating-definitions-of-information-literacy-enough-is-enough
 
+Bliss, A. C. (2019). Adult Science-Based Learning: The Intersection of Digital, Science, and Information Literacies. Adult Learning, 30(3), 128–137. https://doi-org.ezproxy.uky.edu/10.1177/1045159519829042
