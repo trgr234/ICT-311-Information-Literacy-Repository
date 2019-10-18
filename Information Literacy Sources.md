@@ -1,6 +1,6 @@
 # Information Literacy Resources #
 
-Arms, K. \[TEDx Talks]. (2017). *Information Literacy* \[Vidoe file]. https://www.youtube.com/watch?v=3BAfs_oDevw 
+Arms, K. \[TEDx Talks]. (2017). *Information Literacy* \[Video file]. https://www.youtube.com/watch?v=3BAfs_oDevw 
 > This video explores how information literacy is changing with the production of new information. It looks specifically at how fake news has effected information literacy and what methods and techniques we can use to combat such a epidemic of false information. Kevin Arms, the speaker, is a librarian and archivist at Lake-Sumter State College, and serves as the college's faculty advisor for the literary and arts magazine. With his knowledge and expertise, he discusses specific strategies to try and combat the flow of misinformation. This video should demonstrate how to use information literacy in a world where false information is prevalent. 
 
 Kovářová, P., & Zadražilová, I. (2013). The Influence of Technological Changes on the Definition of Information Literacy. *Communications in Computer and Information Science, 397,* 118-125. https://link-springer-com.ezproxy.uky.edu/content/pdf/10.1007%2F978-3-319-03919-0.pdf
