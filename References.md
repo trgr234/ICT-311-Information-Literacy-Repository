@@ -11,4 +11,4 @@ Mackey, T., & Jacobson, T. (2011). Reframing Information Literacy as a Metaliter
 
 Veronin, M. A. (2005). One step forward, two steps back: The World Wide Web as an information resource. Pharmacy Education, 5(3/4), 209–214. https://doi-org.ezproxy.uky.edu/10.1080/15602210500330175
 
-
+Evaluating Sources . (2019, June 19). Retrieved October 17, 2019, from https://libguides.valdosta.edu/evaluating-sources.
