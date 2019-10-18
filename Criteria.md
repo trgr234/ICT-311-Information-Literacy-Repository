@@ -12,6 +12,6 @@ When using these resources on Information Literacy, one should judge them based 
 
 * In regards to academic journals, one can evaluate the quality of the research and whether the journal is high quality. Characteristics we can look for in high quality journals are peer review status, number of collective articles (articles with more than one author), number of subscribers to the journal, and whether the journal is on a recognized lists of publications i.e. Institute of Scientific Information Master Journal List (Clyde, 2004, p. 1120).
 
-* Adding to the terms of evaluating Journal Articles, each member of the group should make sure the article is written by an authoritative author and/or publisher. One can do so my researching the author's credentials or the publisher's webpage to be certain. 
+* Adding to the terms of evaluating Journal Articles, each member of the group should make sure the article is written by an authoritative author and/or publisher. One can do so my researching the author's credentials or the publisher's webpage to be certain. (VSU, 2019). 
 
 
